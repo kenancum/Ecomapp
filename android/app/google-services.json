@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "288027471894",
+    "firebase_url": "https://ecomapp-af83d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ecomapp-af83d",
+    "storage_bucket": "ecomapp-af83d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288027471894:android:415b96d6162bb09d178537",
+        "android_client_info": {
+          "package_name": "com.example.Ecomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288027471894-n3rm4jg127811ksiv7pedirbfc14kcp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidWf7lvLJRRFd0FihjOZab_9EZdpP7_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288027471894-n3rm4jg127811ksiv7pedirbfc14kcp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
